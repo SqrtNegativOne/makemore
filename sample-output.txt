@@ -1,0 +1,728 @@
+INFO:__main__:Loading full dataset from c:\Users\arkma\Sqrt-1\putting the pro in programming\0. Ongoing Projects\makemore\_datasets\full_dataset.pkl
+INFO:__main__:Starting training...
+INFO:__main__:No checkpoint found.
+INFO:__main__: 1: i<START>gc<PAD>mmiwtecdimcmnieeejcocdiccgc
+INFO:__main__: 2: iibinmidzicjmqtd<START>ccisnssmmvebkmg
+INFO:__main__: 3: <START>uvsmicmmmiwsssssankmmfsszqkxmjw
+INFO:__main__: 4: icqssmoiidsumrw<START>ijaaaismiubmdomp
+INFO:__main__: 5: iccisescbncccbgimcirid<START>dd<PAD>aiwwis
+INFO:__main__:Epoch 1/100 | Train Loss: 2.7731 | Val Loss: 2.2882 | LR: 0.000055
+INFO:__main__:New best model saved (Val Loss: 2.2882)
+INFO:__main__: 1: <START>nsi
+INFO:__main__: 2: <START>vii<START>s
+INFO:__main__: 3: <START>raar
+INFO:__main__: 4: <START>fnceie
+INFO:__main__: 5: <START>aiclla
+C:\Users\arkma\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\optim\lr_scheduler.py:198: UserWarning: The epoch parameter in `scheduler.step()` was not necessary and is being deprecated where possible. Please use `scheduler.step()` to step the scheduler. During the deprecation, if epoch is different from None, the closed form is used instead of the new chainable form, where available. Please open an issue if you are unable to replicate your use case: https://github.com/pytorch/pytorch/issues/new/choose.
+  warnings.warn(EPOCH_DEPRECATION_WARNING, UserWarning)
+INFO:__main__:Epoch 2/100 | Train Loss: 2.2002 | Val Loss: 2.0421 | LR: 0.000100
+INFO:__main__:New best model saved (Val Loss: 2.0421)
+INFO:__main__: 1: <START>ayovy
+INFO:__main__: 2: <START>anlariy
+INFO:__main__: 3: <START>dily
+INFO:__main__: 4: <START>nali
+INFO:__main__: 5: <START>anainn
+INFO:__main__:Epoch 3/100 | Train Loss: 2.0734 | Val Loss: 1.9795 | LR: 0.000100
+INFO:__main__:New best model saved (Val Loss: 1.9795)
+INFO:__main__: 1: <START>dannia
+INFO:__main__: 2: <START>ranvi
+INFO:__main__: 3: <START>keana
+INFO:__main__: 4: <START>kandia
+INFO:__main__: 5: <START>rensa
+INFO:__main__:Epoch 4/100 | Train Loss: 2.0233 | Val Loss: 1.9399 | LR: 0.000100
+INFO:__main__:New best model saved (Val Loss: 1.9399)
+INFO:__main__: 1: <START>agaz
+INFO:__main__: 2: <START>rindi
+INFO:__main__: 3: <START>mriligh
+INFO:__main__: 4: <START>erejle
+INFO:__main__: 5: <START>elena
+INFO:__main__:Epoch 5/100 | Train Loss: 1.9955 | Val Loss: 1.9217 | LR: 0.000100
+INFO:__main__:New best model saved (Val Loss: 1.9217)
+INFO:__main__: 1: <START>alanlis
+INFO:__main__: 2: <START>mallee
+INFO:__main__: 3: <START>jaylent
+INFO:__main__: 4: <START>analeiah
+INFO:__main__: 5: <START>kamyah
+INFO:__main__:Epoch 6/100 | Train Loss: 1.9772 | Val Loss: 1.9091 | LR: 0.000100
+INFO:__main__:New best model saved (Val Loss: 1.9091)
+INFO:__main__: 1: <START>emart
+INFO:__main__: 2: <START>maila
+INFO:__main__: 3: <START>eperetta
+INFO:__main__: 4: <START>yade
+INFO:__main__: 5: <START>cayle
+INFO:__main__:Epoch 7/100 | Train Loss: 1.9621 | Val Loss: 1.8978 | LR: 0.000099
+INFO:__main__:New best model saved (Val Loss: 1.8978)
+INFO:__main__: 1: <START>azmar
+INFO:__main__: 2: <START>zirgon
+INFO:__main__: 3: <START>amrey
+INFO:__main__: 4: <START>laquree
+INFO:__main__: 5: <START>sharis
+INFO:__main__:Epoch 8/100 | Train Loss: 1.9503 | Val Loss: 1.8886 | LR: 0.000099
+INFO:__main__:New best model saved (Val Loss: 1.8886)
+INFO:__main__: 1: <START>jamri
+INFO:__main__: 2: <START>zhei
+INFO:__main__: 3: <START>jovonu
+INFO:__main__: 4: <START>dadiah
+INFO:__main__: 5: <START>kario
+INFO:__main__:Epoch 9/100 | Train Loss: 1.9405 | Val Loss: 1.8816 | LR: 0.000099
+INFO:__main__:New best model saved (Val Loss: 1.8816)
+INFO:__main__: 1: <START>gelen
+INFO:__main__: 2: <START>myinder
+INFO:__main__: 3: <START>yozan
+INFO:__main__: 4: <START>amarie
+INFO:__main__: 5: <START>baidah
+INFO:__main__:Epoch 10/100 | Train Loss: 1.9322 | Val Loss: 1.8715 | LR: 0.000099
+INFO:__main__:New best model saved (Val Loss: 1.8715)
+INFO:__main__: 1: <START>dathix
+INFO:__main__: 2: <START>arti
+INFO:__main__: 3: <START>laiya
+INFO:__main__: 4: <START>arman
+INFO:__main__: 5: <START>taidion
+INFO:__main__:Epoch 11/100 | Train Loss: 1.9263 | Val Loss: 1.8659 | LR: 0.000098
+INFO:__main__:New best model saved (Val Loss: 1.8659)
+INFO:__main__: 1: <START>alynn
+INFO:__main__: 2: <START>jusia
+INFO:__main__: 3: <START>raedie
+INFO:__main__: 4: <START>galia
+INFO:__main__: 5: <START>marken
+INFO:__main__:Epoch 12/100 | Train Loss: 1.9189 | Val Loss: 1.8651 | LR: 0.000098
+INFO:__main__:New best model saved (Val Loss: 1.8651)
+INFO:__main__: 1: <START>vavellee
+INFO:__main__: 2: <START>cadkie
+INFO:__main__: 3: <START>layer
+INFO:__main__: 4: <START>ametre
+INFO:__main__: 5: <START>serrie
+INFO:__main__:Epoch 13/100 | Train Loss: 1.9132 | Val Loss: 1.8561 | LR: 0.000097
+INFO:__main__:New best model saved (Val Loss: 1.8561)
+INFO:__main__: 1: <START>jahley
+INFO:__main__: 2: <START>judair
+INFO:__main__: 3: <START>canelia
+INFO:__main__: 4: <START>namali
+INFO:__main__: 5: <START>lavir
+INFO:__main__:Epoch 14/100 | Train Loss: 1.9066 | Val Loss: 1.8495 | LR: 0.000097
+INFO:__main__:New best model saved (Val Loss: 1.8495)
+INFO:__main__: 1: <START>eranella
+INFO:__main__: 2: <START>lizan
+INFO:__main__: 3: <START>ajavyah
+INFO:__main__: 4: <START>jayjani
+INFO:__main__: 5: <START>arielle
+INFO:__main__:Epoch 15/100 | Train Loss: 1.9009 | Val Loss: 1.8454 | LR: 0.000096                                                                                     
+INFO:__main__:New best model saved (Val Loss: 1.8454)
+INFO:__main__: 1: <START>sila
+INFO:__main__: 2: <START>kellen
+INFO:__main__: 3: <START>bender
+INFO:__main__: 4: <START>gencon
+INFO:__main__: 5: <START>mawdy
+INFO:__main__:Epoch 16/100 | Train Loss: 1.8968 | Val Loss: 1.8416 | LR: 0.000096                                                                                     
+INFO:__main__:New best model saved (Val Loss: 1.8416)
+INFO:__main__: 1: <START>amarie
+INFO:__main__: 2: <START>marceri
+INFO:__main__: 3: <START>ketlia
+INFO:__main__: 4: <START>anarelle
+INFO:__main__: 5: <START>marleigh
+INFO:__main__:Epoch 17/100 | Train Loss: 1.8923 | Val Loss: 1.8362 | LR: 0.000095
+INFO:__main__:New best model saved (Val Loss: 1.8362)
+INFO:__main__: 1: <START>eran
+INFO:__main__: 2: <START>adriste
+INFO:__main__: 3: <START>addila
+INFO:__main__: 4: <START>keriana
+INFO:__main__: 5: <START>tyrlen
+INFO:__main__:Epoch 18/100 | Train Loss: 1.8890 | Val Loss: 1.8345 | LR: 0.000094                                                                                     
+INFO:__main__:New best model saved (Val Loss: 1.8345)
+INFO:__main__: 1: <START>kenna
+INFO:__main__: 2: <START>yana
+INFO:__main__: 3: <START>ruzaler
+INFO:__main__: 4: <START>jai
+INFO:__main__: 5: <START>kamila
+INFO:__main__:Epoch 19/100 | Train Loss: 1.8840 | Val Loss: 1.8305 | LR: 0.000093
+INFO:__main__:New best model saved (Val Loss: 1.8305)
+INFO:__main__: 1: <START>xyan
+INFO:__main__: 2: <START>bahir
+INFO:__main__: 3: <START>kranger
+INFO:__main__: 4: <START>zarelli
+INFO:__main__: 5: <START>emrith
+INFO:__main__:Epoch 20/100 | Train Loss: 1.8805 | Val Loss: 1.8267 | LR: 0.000093
+INFO:__main__:New best model saved (Val Loss: 1.8267)
+INFO:__main__: 1: <START>annan
+INFO:__main__: 2: <START>jacciel
+INFO:__main__: 3: <START>carlie
+INFO:__main__: 4: <START>jamari
+INFO:__main__: 5: <START>adita
+INFO:__main__:Epoch 21/100 | Train Loss: 1.8778 | Val Loss: 1.8244 | LR: 0.000092
+INFO:__main__:New best model saved (Val Loss: 1.8244)
+INFO:__main__: 1: <START>kiassabe
+INFO:__main__: 2: <START>joyan
+INFO:__main__: 3: <START>kandor
+INFO:__main__: 4: <START>illee
+INFO:__main__: 5: <START>galina
+INFO:__main__:Epoch 22/100 | Train Loss: 1.8737 | Val Loss: 1.8205 | LR: 0.000091
+INFO:__main__:New best model saved (Val Loss: 1.8205)
+INFO:__main__: 1: <START>maril
+INFO:__main__: 2: <START>anibren
+INFO:__main__: 3: <START>martana
+INFO:__main__: 4: <START>kenya
+INFO:__main__: 5: <START>apenta
+INFO:__main__:Epoch 23/100 | Train Loss: 1.8699 | Val Loss: 1.8170 | LR: 0.000090
+INFO:__main__:New best model saved (Val Loss: 1.8170)
+INFO:__main__: 1: <START>raliel
+INFO:__main__: 2: <START>savan
+INFO:__main__: 3: <START>khoni
+INFO:__main__: 4: <START>ling
+INFO:__main__: 5: <START>cerrie
+INFO:__main__:Epoch 24/100 | Train Loss: 1.8657 | Val Loss: 1.8161 | LR: 0.000089
+INFO:__main__:New best model saved (Val Loss: 1.8161)
+INFO:__main__: 1: <START>hamilla
+INFO:__main__: 2: <START>vik
+INFO:__main__: 3: <START>elima
+INFO:__main__: 4: <START>khadianna
+INFO:__main__: 5: <START>manil
+INFO:__main__:Epoch 25/100 | Train Loss: 1.8649 | Val Loss: 1.8137 | LR: 0.000088
+INFO:__main__:New best model saved (Val Loss: 1.8137)
+INFO:__main__: 1: <START>sodi
+INFO:__main__: 2: <START>neema
+INFO:__main__: 3: <START>nyxam
+INFO:__main__: 4: <START>stayeah
+INFO:__main__: 5: <START>thani
+INFO:__main__:Epoch 26/100 | Train Loss: 1.8623 | Val Loss: 1.8106 | LR: 0.000087
+INFO:__main__:New best model saved (Val Loss: 1.8106)
+INFO:__main__: 1: <START>quanne
+INFO:__main__: 2: <START>milliana
+INFO:__main__: 3: <START>abdanti
+INFO:__main__: 4: <START>marion
+INFO:__main__: 5: <START>kaislynn
+INFO:__main__:Epoch 27/100 | Train Loss: 1.8596 | Val Loss: 1.8091 | LR: 0.000086
+INFO:__main__:New best model saved (Val Loss: 1.8091)
+INFO:__main__: 1: <START>amerah
+INFO:__main__: 2: <START>jerin
+INFO:__main__: 3: <START>aidory
+INFO:__main__: 4: <START>mukani
+INFO:__main__: 5: <START>dovantha
+INFO:__main__:Epoch 28/100 | Train Loss: 1.8564 | Val Loss: 1.8075 | LR: 0.000085
+INFO:__main__:New best model saved (Val Loss: 1.8075)
+INFO:__main__: 1: <START>ameera
+INFO:__main__: 2: <START>cringtyn
+INFO:__main__: 3: <START>saddyn
+INFO:__main__: 4: <START>saaniel
+INFO:__main__: 5: <START>alisan
+INFO:__main__:Epoch 29/100 | Train Loss: 1.8546 | Val Loss: 1.8046 | LR: 0.000084
+INFO:__main__:New best model saved (Val Loss: 1.8046)
+INFO:__main__: 1: <START>zakenn
+INFO:__main__: 2: <START>didrio
+INFO:__main__: 3: <START>evanzi
+INFO:__main__: 4: <START>shenna
+INFO:__main__: 5: <START>khhera
+INFO:__main__:Epoch 30/100 | Train Loss: 1.8527 | Val Loss: 1.8038 | LR: 0.000083
+INFO:__main__:New best model saved (Val Loss: 1.8038)
+INFO:__main__: 1: <START>yattiet
+INFO:__main__: 2: <START>marik
+INFO:__main__: 3: <START>jarae
+INFO:__main__: 4: <START>machardon
+INFO:__main__: 5: <START>arian
+INFO:__main__:Epoch 31/100 | Train Loss: 1.8489 | Val Loss: 1.8008 | LR: 0.000082
+INFO:__main__:New best model saved (Val Loss: 1.8008)
+INFO:__main__: 1: <START>dasi
+INFO:__main__: 2: <START>dami
+INFO:__main__: 3: <START>challaya
+INFO:__main__: 4: <START>layon
+INFO:__main__: 5: <START>anaya
+INFO:__main__:Epoch 32/100 | Train Loss: 1.8467 | Val Loss: 1.7990 | LR: 0.000081
+INFO:__main__:New best model saved (Val Loss: 1.7990)
+INFO:__main__: 1: <START>alyvia
+INFO:__main__: 2: <START>aliyan
+INFO:__main__: 3: <START>raighan
+INFO:__main__: 4: <START>rickmona
+INFO:__main__: 5: <START>landyn
+INFO:__main__:Epoch 33/100 | Train Loss: 1.8456 | Val Loss: 1.7968 | LR: 0.000080                                                                                     
+INFO:__main__:New best model saved (Val Loss: 1.7968)
+INFO:__main__: 1: <START>dovanon
+INFO:__main__: 2: <START>janour
+INFO:__main__: 3: <START>ausani
+INFO:__main__: 4: <START>edelly
+INFO:__main__: 5: <START>fierley
+INFO:__main__:Epoch 34/100 | Train Loss: 1.8439 | Val Loss: 1.7952 | LR: 0.000078
+INFO:__main__:New best model saved (Val Loss: 1.7952)
+INFO:__main__: 1: <START>ken
+INFO:__main__: 2: <START>aleeghn
+INFO:__main__: 3: <START>kendri
+INFO:__main__: 4: <START>shaelia
+INFO:__main__: 5: <START>azael
+INFO:__main__:Epoch 35/100 | Train Loss: 1.8422 | Val Loss: 1.7932 | LR: 0.000077
+INFO:__main__:New best model saved (Val Loss: 1.7932)
+INFO:__main__: 1: <START>kylean
+INFO:__main__: 2: <START>marlely
+INFO:__main__: 3: <START>keiles
+INFO:__main__: 4: <START>jasson
+INFO:__main__: 5: <START>valucianna
+INFO:__main__:Epoch 36/100 | Train Loss: 1.8392 | Val Loss: 1.7921 | LR: 0.000076
+INFO:__main__:New best model saved (Val Loss: 1.7921)
+INFO:__main__: 1: <START>kaelo
+INFO:__main__: 2: <START>nuchen
+INFO:__main__: 3: <START>urowa
+INFO:__main__: 4: <START>meedi
+INFO:__main__: 5: <START>lainah
+INFO:__main__:Epoch 37/100 | Train Loss: 1.8379 | Val Loss: 1.7906 | LR: 0.000075
+INFO:__main__:New best model saved (Val Loss: 1.7906)
+INFO:__main__: 1: <START>erming
+INFO:__main__: 2: <START>garron
+INFO:__main__: 3: <START>jamina
+INFO:__main__: 4: <START>kaisee
+INFO:__main__: 5: <START>anelynn
+INFO:__main__:Epoch 38/100 | Train Loss: 1.8358 | Val Loss: 1.7889 | LR: 0.000073
+INFO:__main__:New best model saved (Val Loss: 1.7889)
+INFO:__main__: 1: <START>battey
+INFO:__main__: 2: <START>aliza
+INFO:__main__: 3: <START>povin
+INFO:__main__: 4: <START>dailyn
+INFO:__main__: 5: <START>abdri
+INFO:__main__:Epoch 39/100 | Train Loss: 1.8344 | Val Loss: 1.7886 | LR: 0.000072
+INFO:__main__:New best model saved (Val Loss: 1.7886)
+INFO:__main__: 1: <START>lillynn
+INFO:__main__: 2: <START>alayiah
+INFO:__main__: 3: <START>carlete
+INFO:__main__: 4: <START>onnaleigh
+INFO:__main__: 5: <START>nahas
+INFO:__main__:Epoch 40/100 | Train Loss: 1.8323 | Val Loss: 1.7863 | LR: 0.000071
+INFO:__main__:New best model saved (Val Loss: 1.7863)
+INFO:__main__: 1: <START>charlee
+INFO:__main__: 2: <START>keris
+INFO:__main__: 3: <START>demma
+INFO:__main__: 4: <START>graylynn
+INFO:__main__: 5: <START>kaidian
+INFO:__main__:Epoch 41/100 | Train Loss: 1.8301 | Val Loss: 1.7851 | LR: 0.000069
+INFO:__main__:New best model saved (Val Loss: 1.7851)
+INFO:__main__: 1: <START>nyron
+INFO:__main__: 2: <START>ronnoma
+INFO:__main__: 3: <START>shaiden
+INFO:__main__: 4: <START>jaelary
+INFO:__main__: 5: <START>raylen
+INFO:__main__:Epoch 42/100 | Train Loss: 1.8296 | Val Loss: 1.7849 | LR: 0.000068
+INFO:__main__:New best model saved (Val Loss: 1.7849)
+INFO:__main__: 1: <START>lorhan
+INFO:__main__: 2: <START>reyden
+INFO:__main__: 3: <START>awston
+INFO:__main__: 4: <START>dekentre
+INFO:__main__: 5: <START>kynleigh
+INFO:__main__:Epoch 43/100 | Train Loss: 1.8269 | Val Loss: 1.7816 | LR: 0.000066                                                                                     
+INFO:__main__:New best model saved (Val Loss: 1.7816)
+INFO:__main__: 1: <START>alda
+INFO:__main__: 2: <START>aliana
+INFO:__main__: 3: <START>iverley
+INFO:__main__: 4: <START>yamari
+INFO:__main__: 5: <START>yuda
+INFO:__main__:Epoch 44/100 | Train Loss: 1.8266 | Val Loss: 1.7820 | LR: 0.000065
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>lowan
+INFO:__main__: 2: <START>brestyn
+INFO:__main__: 3: <START>jener
+INFO:__main__: 4: <START>fendy
+INFO:__main__: 5: <START>kaireem
+INFO:__main__:Epoch 45/100 | Train Loss: 1.8251 | Val Loss: 1.7797 | LR: 0.000064
+INFO:__main__:New best model saved (Val Loss: 1.7797)
+INFO:__main__: 1: <START>joanton
+INFO:__main__: 2: <START>reylina
+INFO:__main__: 3: <START>lasir
+INFO:__main__: 4: <START>avanton
+INFO:__main__: 5: <START>matula
+INFO:__main__:Epoch 46/100 | Train Loss: 1.8240 | Val Loss: 1.7779 | LR: 0.000062
+INFO:__main__:New best model saved (Val Loss: 1.7779)
+INFO:__main__: 1: <START>jaton
+INFO:__main__: 2: <START>hamelli
+INFO:__main__: 3: <START>maimaya
+INFO:__main__: 4: <START>zoven
+INFO:__main__: 5: <START>shade
+INFO:__main__:Epoch 47/100 | Train Loss: 1.8228 | Val Loss: 1.7771 | LR: 0.000061
+INFO:__main__:New best model saved (Val Loss: 1.7771)
+INFO:__main__: 1: <START>kendiella
+INFO:__main__: 2: <START>alaelah
+INFO:__main__: 3: <START>sylianna
+INFO:__main__: 4: <START>trisyn
+INFO:__main__: 5: <START>navalyn
+INFO:__main__:Epoch 48/100 | Train Loss: 1.8219 | Val Loss: 1.7782 | LR: 0.000059
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>lindy
+INFO:__main__: 2: <START>kenna
+INFO:__main__: 3: <START>asidyn
+INFO:__main__: 4: <START>jeren
+INFO:__main__: 5: <START>soay
+INFO:__main__:Epoch 49/100 | Train Loss: 1.8206 | Val Loss: 1.7762 | LR: 0.000058                                                                                     
+INFO:__main__:New best model saved (Val Loss: 1.7762)
+INFO:__main__: 1: <START>zaelai
+INFO:__main__: 2: <START>broahan
+INFO:__main__: 3: <START>havon
+INFO:__main__: 4: <START>saniya
+INFO:__main__: 5: <START>jalyne
+INFO:__main__:Epoch 50/100 | Train Loss: 1.8187 | Val Loss: 1.7753 | LR: 0.000056
+INFO:__main__:New best model saved (Val Loss: 1.7753)
+INFO:__main__: 1: <START>tyree
+INFO:__main__: 2: <START>aushan
+INFO:__main__: 3: <START>helika
+INFO:__main__: 4: <START>carlee
+INFO:__main__: 5: <START>tishana
+INFO:__main__:Epoch 51/100 | Train Loss: 1.8172 | Val Loss: 1.7747 | LR: 0.000055
+INFO:__main__:New best model saved (Val Loss: 1.7747)
+INFO:__main__: 1: <START>amyah
+INFO:__main__: 2: <START>peigana
+INFO:__main__: 3: <START>aariah
+INFO:__main__: 4: <START>neebella
+INFO:__main__: 5: <START>karlene
+INFO:__main__:Epoch 52/100 | Train Loss: 1.8166 | Val Loss: 1.7735 | LR: 0.000054
+INFO:__main__:New best model saved (Val Loss: 1.7735)
+INFO:__main__: 1: <START>nika
+INFO:__main__: 2: <START>ludana
+INFO:__main__: 3: <START>yakir
+INFO:__main__: 4: <START>marana
+INFO:__main__: 5: <START>augen
+INFO:__main__:Epoch 53/100 | Train Loss: 1.8156 | Val Loss: 1.7732 | LR: 0.000052
+INFO:__main__:New best model saved (Val Loss: 1.7732)
+INFO:__main__: 1: <START>marton
+INFO:__main__: 2: <START>marianna
+INFO:__main__: 3: <START>talina
+INFO:__main__: 4: <START>aayat
+INFO:__main__: 5: <START>kenni
+INFO:__main__:Epoch 54/100 | Train Loss: 1.8143 | Val Loss: 1.7724 | LR: 0.000051
+INFO:__main__:New best model saved (Val Loss: 1.7724)
+INFO:__main__: 1: <START>karston
+INFO:__main__: 2: <START>mangetto
+INFO:__main__: 3: <START>mnetti
+INFO:__main__: 4: <START>kathur
+INFO:__main__: 5: <START>josif
+INFO:__main__:Epoch 55/100 | Train Loss: 1.8137 | Val Loss: 1.7710 | LR: 0.000049
+INFO:__main__:New best model saved (Val Loss: 1.7710)
+INFO:__main__: 1: <START>kaceynn
+INFO:__main__: 2: <START>aanapha
+INFO:__main__: 3: <START>roshana
+INFO:__main__: 4: <START>mackin
+INFO:__main__: 5: <START>aleigh
+INFO:__main__:Epoch 56/100 | Train Loss: 1.8134 | Val Loss: 1.7697 | LR: 0.000048
+INFO:__main__:New best model saved (Val Loss: 1.7697)
+INFO:__main__: 1: <START>lehana
+INFO:__main__: 2: <START>derevina
+INFO:__main__: 3: <START>demi
+INFO:__main__: 4: <START>tourie
+INFO:__main__: 5: <START>brenlen
+INFO:__main__:Epoch 57/100 | Train Loss: 1.8107 | Val Loss: 1.7704 | LR: 0.000046
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>eeleanna
+INFO:__main__: 2: <START>merton
+INFO:__main__: 3: <START>rachey
+INFO:__main__: 4: <START>nabel
+INFO:__main__: 5: <START>lorgello
+INFO:__main__:Epoch 58/100 | Train Loss: 1.8107 | Val Loss: 1.7684 | LR: 0.000045
+INFO:__main__:New best model saved (Val Loss: 1.7684)
+INFO:__main__: 1: <START>alexiar
+INFO:__main__: 2: <START>joselin
+INFO:__main__: 3: <START>niya
+INFO:__main__: 4: <START>jace
+INFO:__main__: 5: <START>alizani
+INFO:__main__:Epoch 59/100 | Train Loss: 1.8099 | Val Loss: 1.7681 | LR: 0.000044
+INFO:__main__:New best model saved (Val Loss: 1.7681)
+INFO:__main__: 1: <START>darria
+INFO:__main__: 2: <START>alanna
+INFO:__main__: 3: <START>berryn
+INFO:__main__: 4: <START>gion
+INFO:__main__: 5: <START>roden
+INFO:__main__:Epoch 60/100 | Train Loss: 1.8100 | Val Loss: 1.7684 | LR: 0.000042
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>marcus
+INFO:__main__: 2: <START>ravier
+INFO:__main__: 3: <START>kaieah
+INFO:__main__: 4: <START>braelyn
+INFO:__main__: 5: <START>ellisia
+INFO:__main__:Epoch 61/100 | Train Loss: 1.8080 | Val Loss: 1.7666 | LR: 0.000041
+INFO:__main__:New best model saved (Val Loss: 1.7666)
+INFO:__main__: 1: <START>ceyah
+INFO:__main__: 2: <START>cory
+INFO:__main__: 3: <START>cayla
+INFO:__main__: 4: <START>zailia
+INFO:__main__: 5: <START>michett
+INFO:__main__:Epoch 62/100 | Train Loss: 1.8091 | Val Loss: 1.7657 | LR: 0.000039
+INFO:__main__:New best model saved (Val Loss: 1.7657)
+INFO:__main__: 1: <START>evi
+INFO:__main__: 2: <START>azabre
+INFO:__main__: 3: <START>aren
+INFO:__main__: 4: <START>roevin
+INFO:__main__: 5: <START>marlon
+INFO:__main__:Epoch 63/100 | Train Loss: 1.8078 | Val Loss: 1.7654 | LR: 0.000038
+INFO:__main__:New best model saved (Val Loss: 1.7654)
+INFO:__main__: 1: <START>dymer
+INFO:__main__: 2: <START>rayon
+INFO:__main__: 3: <START>plary
+INFO:__main__: 4: <START>hohter
+INFO:__main__: 5: <START>additon
+INFO:__main__:Epoch 64/100 | Train Loss: 1.8074 | Val Loss: 1.7649 | LR: 0.000037
+INFO:__main__:New best model saved (Val Loss: 1.7649)
+INFO:__main__: 1: <START>izaya
+INFO:__main__: 2: <START>nalici
+INFO:__main__: 3: <START>lecken
+INFO:__main__: 4: <START>brishon
+INFO:__main__: 5: <START>hareng
+INFO:__main__:Epoch 65/100 | Train Loss: 1.8062 | Val Loss: 1.7639 | LR: 0.000035
+INFO:__main__:New best model saved (Val Loss: 1.7639)
+INFO:__main__: 1: <START>tiguli
+INFO:__main__: 2: <START>chakiya
+INFO:__main__: 3: <START>aiquanna
+INFO:__main__: 4: <START>ozyr
+INFO:__main__: 5: <START>maire
+INFO:__main__:Epoch 66/100 | Train Loss: 1.8044 | Val Loss: 1.7646 | LR: 0.000034
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>nahaal
+INFO:__main__: 2: <START>sharia
+INFO:__main__: 3: <START>kamira
+INFO:__main__: 4: <START>tronie
+INFO:__main__: 5: <START>alexa
+INFO:__main__:Epoch 67/100 | Train Loss: 1.8051 | Val Loss: 1.7635 | LR: 0.000033
+INFO:__main__:New best model saved (Val Loss: 1.7635)
+INFO:__main__: 1: <START>kalon
+INFO:__main__: 2: <START>nachar
+INFO:__main__: 3: <START>jaselin
+INFO:__main__: 4: <START>hamoni
+INFO:__main__: 5: <START>rhady
+INFO:__main__:Epoch 68/100 | Train Loss: 1.8040 | Val Loss: 1.7632 | LR: 0.000032
+INFO:__main__:New best model saved (Val Loss: 1.7632)
+INFO:__main__: 1: <START>amaris
+INFO:__main__: 2: <START>reley
+INFO:__main__: 3: <START>elani
+INFO:__main__: 4: <START>lender
+INFO:__main__: 5: <START>liosel
+INFO:__main__:Epoch 69/100 | Train Loss: 1.8028 | Val Loss: 1.7627 | LR: 0.000030
+INFO:__main__:New best model saved (Val Loss: 1.7627)
+INFO:__main__: 1: <START>shumika
+INFO:__main__: 2: <START>lorie
+INFO:__main__: 3: <START>charlin
+INFO:__main__: 4: <START>chaylen
+INFO:__main__: 5: <START>makely
+INFO:__main__:Epoch 70/100 | Train Loss: 1.8028 | Val Loss: 1.7623 | LR: 0.000029                                                                                     
+INFO:__main__:New best model saved (Val Loss: 1.7623)
+INFO:__main__: 1: <START>treghton
+INFO:__main__: 2: <START>jabari
+INFO:__main__: 3: <START>bentroy
+INFO:__main__: 4: <START>maylia
+INFO:__main__: 5: <START>demean
+INFO:__main__:Epoch 71/100 | Train Loss: 1.8021 | Val Loss: 1.7620 | LR: 0.000028
+INFO:__main__:New best model saved (Val Loss: 1.7620)
+INFO:__main__: 1: <START>braylea
+INFO:__main__: 2: <START>lamari
+INFO:__main__: 3: <START>mathen
+INFO:__main__: 4: <START>alayne
+INFO:__main__: 5: <START>jelina
+INFO:__main__:Epoch 72/100 | Train Loss: 1.8015 | Val Loss: 1.7612 | LR: 0.000027                                                                                     
+INFO:__main__:New best model saved (Val Loss: 1.7612)
+INFO:__main__: 1: <START>jegor
+INFO:__main__: 2: <START>shanchu
+INFO:__main__: 3: <START>breglyn
+INFO:__main__: 4: <START>kevyn
+INFO:__main__: 5: <START>keyona
+INFO:__main__:Epoch 73/100 | Train Loss: 1.7995 | Val Loss: 1.7609 | LR: 0.000026
+INFO:__main__:New best model saved (Val Loss: 1.7609)
+INFO:__main__: 1: <START>chison
+INFO:__main__: 2: <START>tamvia
+INFO:__main__: 3: <START>brianna
+INFO:__main__: 4: <START>alanni
+INFO:__main__: 5: <START>jabell
+INFO:__main__:Epoch 74/100 | Train Loss: 1.8011 | Val Loss: 1.7607 | LR: 0.000025
+INFO:__main__:New best model saved (Val Loss: 1.7607)
+INFO:__main__: 1: <START>ashfina
+INFO:__main__: 2: <START>abdian
+INFO:__main__: 3: <START>naellice
+INFO:__main__: 4: <START>bonett
+INFO:__main__: 5: <START>kailee
+INFO:__main__:Epoch 75/100 | Train Loss: 1.7993 | Val Loss: 1.7601 | LR: 0.000024
+INFO:__main__:New best model saved (Val Loss: 1.7601)
+INFO:__main__: 1: <START>daverra
+INFO:__main__: 2: <START>vivan
+INFO:__main__: 3: <START>kahden
+INFO:__main__: 4: <START>lakaid
+INFO:__main__: 5: <START>damiah
+INFO:__main__:Epoch 76/100 | Train Loss: 1.7982 | Val Loss: 1.7597 | LR: 0.000023
+INFO:__main__:New best model saved (Val Loss: 1.7597)
+INFO:__main__: 1: <START>jaedin
+INFO:__main__: 2: <START>naelanderson
+INFO:__main__: 3: <START>maylenna
+INFO:__main__: 4: <START>carlen
+INFO:__main__: 5: <START>aryanna
+INFO:__main__:Epoch 77/100 | Train Loss: 1.7976 | Val Loss: 1.7597 | LR: 0.000022
+INFO:__main__:New best model saved (Val Loss: 1.7597)
+INFO:__main__: 1: <START>stylee
+INFO:__main__: 2: <START>elsagell
+INFO:__main__: 3: <START>kaylan
+INFO:__main__: 4: <START>gerry
+INFO:__main__: 5: <START>arina
+INFO:__main__:Epoch 78/100 | Train Loss: 1.7977 | Val Loss: 1.7594 | LR: 0.000021
+INFO:__main__:New best model saved (Val Loss: 1.7594)
+INFO:__main__: 1: <START>alis
+INFO:__main__: 2: <START>karvian
+INFO:__main__: 3: <START>jahni
+INFO:__main__: 4: <START>caylen
+INFO:__main__: 5: <START>jenavia
+INFO:__main__:Epoch 79/100 | Train Loss: 1.7978 | Val Loss: 1.7596 | LR: 0.000020
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>amara
+INFO:__main__: 2: <START>kolia
+INFO:__main__: 3: <START>enzan
+INFO:__main__: 4: <START>amahi
+INFO:__main__: 5: <START>arianna
+INFO:__main__:Epoch 80/100 | Train Loss: 1.7995 | Val Loss: 1.7588 | LR: 0.000019
+INFO:__main__:New best model saved (Val Loss: 1.7588)
+INFO:__main__: 1: <START>jazziah
+INFO:__main__: 2: <START>mayleigh
+INFO:__main__: 3: <START>incustemon
+INFO:__main__: 4: <START>nylan
+INFO:__main__: 5: <START>briquan
+INFO:__main__:Epoch 81/100 | Train Loss: 1.7971 | Val Loss: 1.7585 | LR: 0.000018
+INFO:__main__:New best model saved (Val Loss: 1.7585)
+INFO:__main__: 1: <START>amirah
+INFO:__main__: 2: <START>dovon
+INFO:__main__: 3: <START>zawarr
+INFO:__main__: 4: <START>zyad
+INFO:__main__: 5: <START>avantae
+INFO:__main__:Epoch 82/100 | Train Loss: 1.7976 | Val Loss: 1.7581 | LR: 0.000017
+INFO:__main__:New best model saved (Val Loss: 1.7581)
+INFO:__main__: 1: <START>kelodi
+INFO:__main__: 2: <START>brie
+INFO:__main__: 3: <START>christa
+INFO:__main__: 4: <START>elliana
+INFO:__main__: 5: <START>kynleigh
+INFO:__main__:Epoch 83/100 | Train Loss: 1.7964 | Val Loss: 1.7580 | LR: 0.000017
+INFO:__main__:New best model saved (Val Loss: 1.7580)
+INFO:__main__: 1: <START>gulenteda
+INFO:__main__: 2: <START>cansley
+INFO:__main__: 3: <START>auree
+INFO:__main__: 4: <START>anyely
+INFO:__main__: 5: <START>parmon
+INFO:__main__:Epoch 84/100 | Train Loss: 1.7973 | Val Loss: 1.7582 | LR: 0.000016
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>vianna
+INFO:__main__: 2: <START>madrick
+INFO:__main__: 3: <START>corri
+INFO:__main__: 4: <START>areli
+INFO:__main__: 5: <START>mayona
+INFO:__main__:Epoch 85/100 | Train Loss: 1.7968 | Val Loss: 1.7581 | LR: 0.000015
+INFO:__main__:No improvement (2/5)
+INFO:__main__: 1: <START>avena
+INFO:__main__: 2: <START>liviianna
+INFO:__main__: 3: <START>kalin
+INFO:__main__: 4: <START>shamil
+INFO:__main__: 5: <START>kaileanna
+INFO:__main__:Epoch 86/100 | Train Loss: 1.7968 | Val Loss: 1.7575 | LR: 0.000014
+INFO:__main__:New best model saved (Val Loss: 1.7575)
+INFO:__main__: 1: <START>carmaya
+INFO:__main__: 2: <START>zabiah
+INFO:__main__: 3: <START>grisx
+INFO:__main__: 4: <START>devia
+INFO:__main__: 5: <START>laylan
+INFO:__main__:Epoch 87/100 | Train Loss: 1.7959 | Val Loss: 1.7574 | LR: 0.000014
+INFO:__main__:New best model saved (Val Loss: 1.7574)
+INFO:__main__: 1: <START>mikel
+INFO:__main__: 2: <START>arley
+INFO:__main__: 3: <START>rynnett
+INFO:__main__: 4: <START>maris
+INFO:__main__: 5: <START>oluwue
+INFO:__main__:Epoch 88/100 | Train Loss: 1.7953 | Val Loss: 1.7567 | LR: 0.000013
+INFO:__main__:New best model saved (Val Loss: 1.7567)
+INFO:__main__: 1: <START>keyan
+INFO:__main__: 2: <START>naham
+INFO:__main__: 3: <START>karlee
+INFO:__main__: 4: <START>maver
+INFO:__main__: 5: <START>vinto
+INFO:__main__:Epoch 89/100 | Train Loss: 1.7955 | Val Loss: 1.7572 | LR: 0.000013
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>annaia
+INFO:__main__: 2: <START>chissa
+INFO:__main__: 3: <START>makyleah
+INFO:__main__: 4: <START>rhylea
+INFO:__main__: 5: <START>kenslyn
+INFO:__main__:Epoch 90/100 | Train Loss: 1.7961 | Val Loss: 1.7566 | LR: 0.000012
+INFO:__main__:New best model saved (Val Loss: 1.7566)
+INFO:__main__: 1: <START>daveen
+INFO:__main__: 2: <START>jayron
+INFO:__main__: 3: <START>kearaj
+INFO:__main__: 4: <START>carlynn
+INFO:__main__: 5: <START>jamaleigh
+INFO:__main__:Epoch 91/100 | Train Loss: 1.7950 | Val Loss: 1.7563 | LR: 0.000012
+INFO:__main__:New best model saved (Val Loss: 1.7563)
+INFO:__main__: 1: <START>alissa
+INFO:__main__: 2: <START>latolany
+INFO:__main__: 3: <START>aurah
+INFO:__main__: 4: <START>treigh
+INFO:__main__: 5: <START>katti
+INFO:__main__:Epoch 92/100 | Train Loss: 1.7952 | Val Loss: 1.7566 | LR: 0.000011
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>france
+INFO:__main__: 2: <START>dydon
+INFO:__main__: 3: <START>claryn
+INFO:__main__: 4: <START>alyjah
+INFO:__main__: 5: <START>rehish
+INFO:__main__:Epoch 93/100 | Train Loss: 1.7948 | Val Loss: 1.7563 | LR: 0.000011
+INFO:__main__:No improvement (2/5)
+INFO:__main__: 1: <START>kamaid
+INFO:__main__: 2: <START>yuvanni
+INFO:__main__: 3: <START>praxsion
+INFO:__main__: 4: <START>jacoran
+INFO:__main__: 5: <START>karlie
+INFO:__main__:Epoch 94/100 | Train Loss: 1.7942 | Val Loss: 1.7560 | LR: 0.000011
+INFO:__main__:New best model saved (Val Loss: 1.7560)
+INFO:__main__: 1: <START>kyllani
+INFO:__main__: 2: <START>kalli
+INFO:__main__: 3: <START>alizah
+INFO:__main__: 4: <START>pahnix
+INFO:__main__: 5: <START>ologana
+INFO:__main__:Epoch 95/100 | Train Loss: 1.7942 | Val Loss: 1.7561 | LR: 0.000011
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>adilyn
+INFO:__main__: 2: <START>mehan
+INFO:__main__: 3: <START>wenambellit
+INFO:__main__: 4: <START>sharten
+INFO:__main__: 5: <START>noora
+INFO:__main__:Epoch 96/100 | Train Loss: 1.7932 | Val Loss: 1.7559 | LR: 0.000010
+INFO:__main__:New best model saved (Val Loss: 1.7559)
+INFO:__main__: 1: <START>marianna
+INFO:__main__: 2: <START>kayver
+INFO:__main__: 3: <START>kashier
+INFO:__main__: 4: <START>rosha
+INFO:__main__: 5: <START>danila
+INFO:__main__:Epoch 97/100 | Train Loss: 1.7934 | Val Loss: 1.7556 | LR: 0.000010
+INFO:__main__:New best model saved (Val Loss: 1.7556)
+INFO:__main__: 1: <START>shantari
+INFO:__main__: 2: <START>karsten
+INFO:__main__: 3: <START>nyla
+INFO:__main__: 4: <START>benna
+INFO:__main__: 5: <START>jailen
+INFO:__main__:Epoch 98/100 | Train Loss: 1.7930 | Val Loss: 1.7552 | LR: 0.000010
+INFO:__main__:New best model saved (Val Loss: 1.7552)
+INFO:__main__: 1: <START>breyson
+INFO:__main__: 2: <START>brashta
+INFO:__main__: 3: <START>kyre
+INFO:__main__: 4: <START>zamari
+INFO:__main__: 5: <START>annett
+INFO:__main__:Epoch 99/100 | Train Loss: 1.7932 | Val Loss: 1.7555 | LR: 0.000010                                                                                     
+INFO:__main__:No improvement (1/5)
+INFO:__main__: 1: <START>brannette
+INFO:__main__: 2: <START>londal
+INFO:__main__: 3: <START>kaina
+INFO:__main__: 4: <START>airen
+INFO:__main__: 5: <START>abriella
+INFO:__main__:Epoch 100/100 | Train Loss: 1.7929 | Val Loss: 1.7556 | LR: 0.000010
+INFO:__main__:No improvement (2/5)
+INFO:__main__:Loading best model for generation...
+INFO:__main__:
+Generated names:
+INFO:__main__: 1: <START>hleesaderoza
+INFO:__main__: 2: <START>wiseluv
+INFO:__main__: 3: <START>rova
+INFO:__main__: 4: <START>nabaylah
+INFO:__main__: 5: <START>grishfawne
+INFO:__main__: 6: <START>franissa
+INFO:__main__: 7: <START>naele
+INFO:__main__: 8: <START>ay
+INFO:__main__: 9: <START>wuxstarmes
+INFO:__main__:10: <START>
+INFO:__main__:11: <START>xtythdon
+INFO:__main__:12: <START>dekhziow
+INFO:__main__:13: <START>koenter
+INFO:__main__:14: <START>wwickl
+INFO:__main__:15: <START>walynsa
+INFO:__main__:16: <START>lakxon
+INFO:__main__:17: <START>uqmiana
+INFO:__main__:18: <START>symmitcerviuz
+INFO:__main__:19: <START>dada
+INFO:__main__:20: <START>donjisa

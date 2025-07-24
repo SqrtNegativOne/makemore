@@ -1,0 +1,17 @@
+Let's build GPT: from scratch, in code, spelled out. - YouTube
+https://www.youtube.com/watch?v=kCc8FmEb1nY&t=472s
+
+1706.03762
+https://arxiv.org/pdf/1706.03762
+
+ng-video-lecture/gpt.py at master · karpathy/ng-video-lecture
+https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py
+
+makemore/makemore.py at master · karpathy/makemore
+https://github.com/karpathy/makemore/blob/master/makemore.py
+
+gpt-dev.ipynb - Colab
+https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=wOURrfG-ysoL
+
+Positional and Token Embeddings
+https://chatgpt.com/c/6872510c-1630-8002-811c-f6ff357841c7
