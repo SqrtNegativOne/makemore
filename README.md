@@ -5,5 +5,5 @@ Sample output at sample-output.txt.
 Next steps:
 - Find better datasets.
     - Universal names.
-    - Names from Star Wars.
+    - Names from Star Wars, corru.observer, hollow knight, silksong
 - Somehow add ability to generate different types of names using tags? Like Russian, sci-fi, cultural etc.
